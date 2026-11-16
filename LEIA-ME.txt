@@ -1,0 +1,19 @@
+LANDING PAGE — ANNE CAROLINE
+
+COMO ABRIR NO VS CODE
+1. Extraia a pasta deste ZIP para um local do seu computador.
+2. No VS Code, clique em File > Open Folder (Arquivo > Abrir Pasta).
+3. Selecione a pasta anne-caroline-site.
+4. Abra o arquivo index.html.
+5. Clique com o botão direito no index.html e escolha Open with Live Server.
+   Se essa opção não aparecer, instale a extensão Live Server (Ritwick Dey).
+
+ARQUIVOS
+- index.html: estrutura e textos da página.
+- style.css: estilos, cores, fontes e responsividade.
+- script.js: comportamentos JavaScript.
+- assets/: fotografias e fontes locais.
+
+IMPORTANTE
+Antes de publicar, substitua os dados de exemplo: WhatsApp (55DDDNUMERO), Instagram (SEUUSUARIO) e CRN.
+Os textos de formação/experiência também têm um trecho indicado para personalização.
